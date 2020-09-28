@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="35px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -27 -329 )">
-    <path d="M 27 329  L 62 329  L 62 364  L 27 364  L 27 329  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 29 331  L 60 331  L 60 362  L 29 362  L 29 331  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 47.825 339.5  C 46.355 339.5  45.2 338.345  45.2 336.875  C 45.2 335.405  46.355 334.25  47.825 334.25  C 49.295 334.25  50.45 335.405  50.45 336.875  C 50.45 338.345  49.295 339.5  47.825 339.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 30 361  L 30 345.05  L 37.25 337.8  L 47.4 343.6  L 53.2 342.15  L 59 343.6  L 59 361  L 30 361  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+  <g transform="matrix(1 0 0 1 -28 -545 )">
+    <path d="M 28 545  L 63 545  L 63 580  L 28 580  L 28 545  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 30 547  L 61 547  L 61 578  L 30 578  L 30 547  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 48.825 555.5  C 47.355 555.5  46.2 554.345  46.2 552.875  C 46.2 551.405  47.355 550.25  48.825 550.25  C 50.295 550.25  51.45 551.405  51.45 552.875  C 51.45 554.345  50.295 555.5  48.825 555.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 31 577  L 31 561.05  L 38.25 553.8  L 48.4 559.6  L 54.2 558.15  L 60 559.6  L 60 577  L 31 577  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
